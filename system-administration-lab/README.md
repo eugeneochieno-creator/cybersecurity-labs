@@ -27,6 +27,8 @@ sudo adduser batman
 The account creation was verified using:
 cat /etc/passwd | grep batman
 
+![Linux User Creation](images/linux-user-creation.png)
+
 ---
 
 ## Task 2 – Windows User Management
@@ -34,6 +36,8 @@ cat /etc/passwd | grep batman
 Using **Computer Management**, the user account **Batman** was created and verified.
 
 This demonstrates basic identity and access management within Windows systems.
+
+![Windows User Management](images/windows-user-management.png)
 
 ---
 
@@ -43,6 +47,8 @@ The user **Batman** was added to the **Accounting group**.
 
 This demonstrates how organizations manage permissions using group-based access control.
 
+![Group Membership](images/group-membership.png)
+
 ---
 
 ## Task 4 – Firewall Configuration
@@ -51,11 +57,15 @@ A firewall rule was configured allowing **Port 80 (HTTP)** inbound traffic.
 
 This demonstrates basic network security configuration.
 
+![Firewall Rule](images/firewall-rule.png)
+
 ---
 
 ## Task 5 – Endpoint Security Scan
 
 A system scan was performed using **Windows Defender** to verify the system was free from threats.
+
+![Windows Defender Scan](images/defender-scan.png)
 
 ---
 
